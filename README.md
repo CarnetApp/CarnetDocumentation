@@ -32,6 +32,7 @@ Be aware that this is still a beta version, I recommand not using Google Drive f
 
 ## To come
 
+- NextCloud Online integration (as a nextcloud app)
 - Perf improvements
 - Lighter version for linux without Electron
 - Windows / Mac OS electron app
