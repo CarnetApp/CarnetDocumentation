@@ -4,7 +4,7 @@
 ## Introduction
 
 QuickDoc is a complete and rich note taking app for Android and Linux with sync capabilities
-
+Be aware that this is still a beta version, I recommand not using Google Drive for now (NextCloud works perfectly)
 
 ## Features
 
