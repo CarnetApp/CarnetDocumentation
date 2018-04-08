@@ -30,6 +30,13 @@ Be aware that this is still a beta version, I recommand not using Google Drive f
 - Statistics : words/sentences/characters
 - Sync with Google Drive and NextCloud
 
+## To come
+
+- Perf improvements
+- Lighter version for linux without Electron
+- Windows / Mac OS electron app
+- Many things I don't think about right now
+
 ## Zoom in
 
 ### Notes overview
