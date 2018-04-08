@@ -38,3 +38,6 @@ Be aware that this is still a beta version, I recommand not using Google Drive f
 ![GitHub Logo](intro/mediamanager.png)
 
 Licence : GPLv3
+
+Android sources [a workaround link] QuickDocAndroid/blob/master
+Desktop sources [a workaround link] QuickDocElectron/blob/master
