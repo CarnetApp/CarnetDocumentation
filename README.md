@@ -39,6 +39,6 @@ Be aware that this is still a beta version, I recommand not using Google Drive f
 
 Licence : GPLv3
 
-Android [sources](QuickDocAndroid/blob/master)
+Android [sources](../QuickDocAndroid/blob/master)
 
-Desktop [sources](QuickDocElectron/blob/master)
+Desktop [sources](../QuickDocElectron/blob/master)
