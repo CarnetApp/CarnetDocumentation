@@ -8,13 +8,13 @@ Be aware that this is still a beta version, I recommand not using Google Drive f
 
 ## Download
 
-[Android](https://nextcloud.phoenamandre.fr/index.php/s/isppx3Bm8aR63jD/download?path=%2Fandroid&files=current.apk)
+[Android](https://qn.phie.ovh/binaries/android/current.apk)
 
-[Linux 64 bits AppImage](https://nextcloud.phoenamandre.fr/index.php/s/isppx3Bm8aR63jD/download?path=%2Fdesktop&files=current64.AppImage)
+[Linux 64 bits AppImage](https://qn.phie.ovh/binaries/desktop/current64.AppImage)
 
-[Linux 32 bits AppImage](https://nextcloud.phoenamandre.fr/index.php/s/isppx3Bm8aR63jD/download?path=%2Fdesktop&files=current32.AppImage)
+[Linux 32 bits AppImage](https://qn.phie.ovh/binaries/desktop/current32.AppImage)
 
-[Daily Builds](https://nextcloud.phoenamandre.fr/index.php/s/isppx3Bm8aR63jD)
+[Daily Builds](https://qn.phie.ovh/binaries)
 
 ## Features
 
