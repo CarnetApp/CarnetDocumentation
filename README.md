@@ -60,3 +60,7 @@ Licence : GPLv3
 Android [sources](../../../QuickDocAndroid)
 
 Desktop [sources](../../../QuickDocElectron)
+
+Donations :
+
+https://liberapay.com/Phie
