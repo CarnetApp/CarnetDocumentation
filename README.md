@@ -1,9 +1,9 @@
-# QuickDoc
+# Carnet
 
 
 ## Introduction
 
-QuickDoc is a complete and rich note taking app for Android and Linux with sync capabilities
+Carnet is a complete and rich note taking app for Android and Linux with sync capabilities
 Be aware that this is still a beta version, I recommand not using Google Drive for now (NextCloud works perfectly)
 
 ## Download
@@ -57,9 +57,12 @@ Be aware that this is still a beta version, I recommand not using Google Drive f
 
 Licence : GPLv3
 
-Android [sources](../../../QuickDocAndroid)
+Android [sources](../../../CarnetAndroid)
 
-Desktop [sources](../../../QuickDocElectron)
+Desktop [sources](../../../CarnetElectron)
+
+NextCloud [sources](../../../CarnetNextcloud)
+
 
 Donations :
 
