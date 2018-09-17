@@ -38,6 +38,12 @@ Be aware that this is still a beta version, I recommand not using Google Drive f
 - Windows / Mac OS electron app
 - Many things I don't think about right now
 
+
+## Sync Online version with Android
+
+https://carnet.live is nothing more than a nextcloud server, so select Nextcloud and fill server / username / password
+
+
 ## Zoom in
 
 ### Notes overview
