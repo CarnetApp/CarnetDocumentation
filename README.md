@@ -16,8 +16,15 @@ Be aware that this is still a beta version, I recommand not using Google Drive f
 
 [Daily Builds](https://qn.phie.ovh/binaries)
 
+
+## Online instances
+
+[Carnet.live](https://carnet.live)
+
+
 ## Features
 
+- Available as a Nextcloud App (online)
 - Complete editor : bold/italic/underline/color/highlight
 - Import from Google Keep (only on desktop, then sync on mobile)
 - Insert images / review
@@ -32,7 +39,6 @@ Be aware that this is still a beta version, I recommand not using Google Drive f
 
 ## To come
 
-- NextCloud Online integration (as a nextcloud app)
 - Perf improvements
 - Lighter version for linux without Electron
 - Windows / Mac OS electron app
