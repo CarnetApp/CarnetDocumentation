@@ -42,6 +42,7 @@ Be aware that this is still a beta version, I recommand not using Google Drive f
 - Perf improvements
 - Lighter version for linux without Electron
 - Windows / Mac OS electron app
+- Audio files
 - Many things I don't think about right now
 
 
@@ -58,9 +59,14 @@ https://carnet.live is nothing more than a nextcloud server, so select Nextcloud
 
 ![GitHub Logo](intro/overview.png)
 
+![GitHub Logo](intro/overview-android.png)
+
+
 ### Rich editor
 
 ![GitHub Logo](intro/deskeditor.png)
+
+![GitHub Logo](intro/editor-android.png)
 
 
 ### Media manager
