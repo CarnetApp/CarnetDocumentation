@@ -57,20 +57,20 @@ https://carnet.live is nothing more than a nextcloud server, so select Nextcloud
 
 
 
-![GitHub Logo](intro/overview.png)
+![Desktop Overview](intro/overview.png)
 
-<img src="intro/overview-android.png" alt="alt text" width="300">
+<img  src="intro/overview-android.png" alt="android overview" width="300">
 
 
 ### Rich editor
 
-![GitHub Logo](intro/deskeditor.png)
+![Desktop editor](intro/deskeditor.png)
  
-<img src="intro/editor-android.png" alt="alt text" width="300">
+<img src="intro/editor-android.png" alt="android editor" width="300">
 
 ### Media manager
 
-![GitHub Logo](intro/mediamanager.png)
+![Media manager](intro/mediamanager.png)
 
 Licence : GPLv3
 
