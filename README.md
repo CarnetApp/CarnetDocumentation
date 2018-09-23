@@ -83,4 +83,7 @@ NextCloud [sources](../../../CarnetNextcloud)
 
 Donations :
 
-https://liberapay.com/Phie
+[LiberaPay](https://liberapay.com/Phie)
+
+
+[Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YMHT55NSCLER6)
