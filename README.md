@@ -17,6 +17,9 @@ Be aware that this is still a beta version, I recommand not using Google Drive f
 [Daily Builds](https://qn.phie.ovh/binaries)
 
 
+[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="60">](https://play.google.com/store/apps/details?id=com.spisoft.quicknote)	 
+ [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">](https://f-droid.org/app/com.spisoft.quicknote)
+
 ## Online instances
 
 [Carnet.live](https://carnet.live)
