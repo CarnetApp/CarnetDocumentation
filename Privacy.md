@@ -9,17 +9,16 @@ Further utilization of this software after reading this policy statement implies
 To function efficiently the software will require permission to read and write your external storage. It will never access it directly, this is only to enable the software to read and have access to all documents in your device storage and be able to modify your device storage.
 The software also has certain other capabilities like;
 - Run at startup: which allows the app to have itself started as soon as the system has finished booting.
-- Google Play billing service: this allows you purchase items through google play from within the app
 - have full network access: allows the app to create network sockets and use customized network protocols. This permission is not required to send data to the internet. <hr>
  
 ## Crash reports and feature requests sending
 
 Carnet is still a young project, and the developer needs to get pieces of information when it doesn't work to make it work.
-If you encounter a bug during the use of this software or wish to request a feature, please open an [issue](https://github.com/PhieF/CarnetDocumentation/issues/new) on GitHub or send an and it will be fixed. The developer can be contacted directly via mail from within the software in from the settings page. <hr>
+If you encounter a bug during the use of this software or wish to request a feature, please open an [issue](https://github.com/PhieF/CarnetDocumentation/issues/new) on GitHub or send an and it will be fixed. The developer can be contacted directly via e-mail from within the software from the settings page. <hr>
 
 ## Service Providers
 
-Carnet Documentation employs the services of third party companies next cloud and google drive to facilitate its services and to perform service-related services or to assist in analyzing how our service is used.
+Carnet Documentation employs the services of third party companies next cloud and google drive to facilitate its services and to perform service-related services or to assist in analyzing how our service is used. The use of google drive is completely optional and this is also not included in the software version available on F-droid.
 This third-party software may have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. <hr>
 
 ## Transfer Of Data
@@ -27,7 +26,7 @@ This third-party software may have access to your Personal Data only to perform 
 When the third-party services contained in the app are used, your information, including personal data, may be transferred to computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
 Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer. <hr>
 
-## Security of Data
+## Security of Database
 The developer is interested in the security of your data which is very important and there are measures to ensure any data that may be collected when this software is used is safe. However, these measures do not guarantee that your information will not be accessed, disclosed, altered or destroyed by breach of such firewalls and secure server software. By continual utilization of this software, you acknowledge that you understand and agree to assume these risks. <hr>
  
 ## Links To Other Sites
