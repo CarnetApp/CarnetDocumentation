@@ -39,14 +39,16 @@ Be aware that this is still a beta version, I recommand not using Google Drive f
 - Protect the app with a pin code (won't encrypt notes) on android
 - Statistics : words/sentences/characters
 - Sync with Google Drive and NextCloud
+- Record audio
 
 ## To come
 
 - Perf improvements
 - Lighter version for linux without Electron
 - Windows / Mac OS electron app
-- Audio files
 - Many things I don't think about right now
+- ToDo lists
+- Url preview
 
 
 ## Sync Online version with Android
