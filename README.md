@@ -89,6 +89,7 @@ NextCloud [sources](../../../CarnetNextcloud)
 ## Follow us
 
 Mastodon: https://framapiaf.org/@Carnet
+
 RSS: https://framapiaf.org/@Carnet.atom
 
 ## Donations :
