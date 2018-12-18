@@ -39,7 +39,9 @@ Be aware that this is still a beta version, I recommand not using Google Drive f
 - Protect the app with a pin code (won't encrypt notes) on android
 - Statistics : words/sentences/characters
 - Sync with Google Drive and NextCloud
-- Record audio
+- Audio recording
+- Dark theme
+- Note background color
 
 ## To come
 
@@ -61,8 +63,20 @@ https://carnet.live is nothing more than a nextcloud server, so select Nextcloud
 ### Notes overview
 
 
+Desktop
 
-![Desktop Overview](intro/overview.png)
+<img  src="intro/overview.png"  width="400"/>
+
+<br />
+
+Dark Theme
+
+<img  src="intro/overview-dark.png"  width="400"/>
+
+<br />
+
+Android
+
 
 <img  src="intro/overview-android.png" alt="android overview" width="300">
 
