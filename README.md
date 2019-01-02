@@ -41,6 +41,7 @@ Be aware that this is still a beta version, I recommand not using Google Drive f
 - Sync with Google Drive and NextCloud
 - Audio recording
 - Dark theme
+- ToDo lists
 - Note background color
 
 ## To come
@@ -49,7 +50,6 @@ Be aware that this is still a beta version, I recommand not using Google Drive f
 - Lighter version for linux without Electron
 - Windows / Mac OS electron app
 - Many things I don't think about right now
-- ToDo lists
 - Url preview
 
 
