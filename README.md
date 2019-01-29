@@ -6,6 +6,15 @@
 Carnet is a complete and rich note taking app for Android and Linux with sync capabilities
 Be aware that this is still a beta version, I recommand not using Google Drive for now (NextCloud works perfectly)
 
+Licence : GPLv3
+
+Android [sources](../../../CarnetAndroid)
+
+Desktop [sources](../../../CarnetElectron)
+
+NextCloud [sources](../../../CarnetNextcloud)
+
+
 ## Download
 
 [Android](https://qn.phie.ovh/binaries/android/current.apk)
@@ -91,13 +100,6 @@ Android
 
 ![Media manager](intro/mediamanager.png)
 
-Licence : GPLv3
-
-Android [sources](../../../CarnetAndroid)
-
-Desktop [sources](../../../CarnetElectron)
-
-NextCloud [sources](../../../CarnetNextcloud)
 
 
 ## Follow us
