@@ -55,11 +55,8 @@ NextCloud [sources](../../../CarnetNextcloud)
 
 ## To come
 
-- Perf improvements
-- Lighter version for linux without Electron
-- Windows / Mac OS electron app
-- Many things I don't think about right now
-- Url preview
+[See here](FUTURE.md)
+
 
 
 ## Sync Online version with Android
