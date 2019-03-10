@@ -111,3 +111,9 @@ RSS: https://framapiaf.org/@Carnet.atom
 
 
 [Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YMHT55NSCLER6)
+
+## Help
+
+You can help with translations on the dedicated platform
+
+[weblate](https://weblate.lostpod.me)
