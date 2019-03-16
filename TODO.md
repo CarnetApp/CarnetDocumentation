@@ -6,7 +6,7 @@ Sorting option (90%)
 
 GTK Version (50%) track it here https://github.com/PhieF/CarnetGTK
 
-End-to-end ecryption
+End-to-end encryption
 
 ## Done
 
