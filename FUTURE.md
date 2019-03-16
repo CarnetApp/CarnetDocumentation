@@ -4,8 +4,14 @@ Sorting option (90%)
 
 ## Next
 
-Translation for editor part + electron + nextcloud (0%)
+GTK Version (50%) track it here https://github.com/PhieF/CarnetGTK
+
+End-to-end ecryption
+
+## Done
+
 
 Preview of links (0%)
 
-GTK Version (50%)
+Translation for editor part + electron + nextcloud (0%)
+
