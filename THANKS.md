@@ -5,6 +5,7 @@ Spanish: CalebCDE
 
 Dutch: Vistaus
 
+German: Christian Scholz
 
 ## Development
 
