@@ -72,29 +72,14 @@ https://carnet.live is nothing more than a nextcloud server, so select Nextcloud
 ### Android
 
 
-<img  src="intro/android/1.png" alt="android overview" width="150">
-<img  src="intro/android/2.png" alt="android overview" width="150">
-<img  src="intro/android/3.png" alt="android overview" width="150">
-<img  src="intro/android/4.png" alt="android overview" width="150">
+<img  src="intro/android/1.png" alt="android overview" width="150"> <img  src="intro/android/2.png" alt="android overview" width="150"> <img  src="intro/android/3.png" alt="android overview" width="150"> <img  src="intro/android/4.png" alt="android overview" width="150">
 
 
 
 
 ### Desktop
 
-<img  src="intro/overview.png"  width="300"/>
-
-
-
-<img  src="intro/overview-dark.png"  width="300"/>
-
-
-
-
-<img src="intro/deskeditor.png" alt="desktop editor" width="300">
-
-
-<img src="intro/mediamanager.png" width="300"/>
+<img  src="intro/overview.png"  width="300"/> <img  src="intro/overview-dark.png"  width="300"/> <img src="intro/deskeditor.png" alt="desktop editor" width="300"> <img src="intro/mediamanager.png" width="300"/>
 
 
 
