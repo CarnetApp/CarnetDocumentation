@@ -66,36 +66,35 @@ https://carnet.live is nothing more than a nextcloud server, so select Nextcloud
 
 ## Zoom in
 
-### Notes overview
 
 
-Desktop
 
-<img  src="intro/overview.png"  width="400"/>
-
-<br />
-
-Dark Theme
-
-<img  src="intro/overview-dark.png"  width="400"/>
-
-<br />
-
-Android
+### Android
 
 
-<img  src="intro/overview-android.png" alt="android overview" width="300">
+<img  src="intro/android/1.png" alt="android overview" width="150">
+<img  src="intro/android/2.png" alt="android overview" width="150">
+<img  src="intro/android/3.png" alt="android overview" width="150">
+<img  src="intro/android/4.png" alt="android overview" width="150">
 
 
-### Rich editor
 
-![Desktop editor](intro/deskeditor.png)
- 
-<img src="intro/editor-android.png" alt="android editor" width="300">
 
-### Media manager
+### Desktop
 
-![Media manager](intro/mediamanager.png)
+<img  src="intro/overview.png"  width="300"/>
+
+
+
+<img  src="intro/overview-dark.png"  width="300"/>
+
+
+
+
+<img src="intro/deskeditor.png" alt="desktop editor" width="300">
+
+
+<img src="intro/mediamanager.png" width="300"/>
 
 
 
@@ -107,6 +106,9 @@ RSS: https://framapiaf.org/@Carnet.atom
 
 ## Donations :
 
+
+[All Donations](https://donation.carnet.live)
+
 [LiberaPay](https://liberapay.com/Phie)
 
 
@@ -116,4 +118,6 @@ RSS: https://framapiaf.org/@Carnet.atom
 
 You can help with translations on the dedicated platform
 
-[weblate](https://weblate.lostpod.me)
+[Weblate](https://weblate.lostpod.me)
+
+[Matrix room](https://matrix.to/#/#carnet:gauchiste.club)
