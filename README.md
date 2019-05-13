@@ -4,7 +4,7 @@
 ## Introduction
 
 Carnet is a complete and rich note taking app for Android and Linux with sync capabilities
-Be aware that this is still a beta version, I recommend not using Google Drive for now (NextCloud works perfectly)
+Be aware that this is still a beta version, I recommend not using Google Drive for now (ownCloud/NextCloud works perfectly)
 
 Licence : GPLv3
 
@@ -12,7 +12,7 @@ Android [sources](../../../CarnetAndroid)
 
 Desktop [sources](../../../CarnetElectron)
 
-NextCloud [sources](../../../CarnetNextcloud)
+ownCloud/NextCloud [sources](../../../CarnetNextcloud)
 
 
 ## Download
@@ -36,7 +36,7 @@ NextCloud [sources](../../../CarnetNextcloud)
 
 ## Features
 
-- Available as a Nextcloud App (online)
+- Available as a ownCloud/Nextcloud App (online)
 - Complete editor : bold/italic/underline/color/highlight
 - Import from Google Keep (only on desktop, then sync on mobile)
 - Insert images / review
@@ -47,7 +47,7 @@ NextCloud [sources](../../../CarnetNextcloud)
 - Search amount your notes
 - Protect the app with a pin code (won't encrypt notes) on android
 - Statistics : words/sentences/characters
-- Sync with Google Drive and NextCloud
+- Sync with Google Drive, ownCloud and NextCloud
 - Audio recording
 - Dark theme
 - ToDo lists
