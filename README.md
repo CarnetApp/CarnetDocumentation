@@ -14,7 +14,7 @@ Desktop [sources](../../../CarnetElectron)
 
 ownCloud/NextCloud [sources](../../../CarnetNextcloud)
 
-getcarnet.app [sources](../../..//PhieF/CarnetLive)
+getcarnet.app [sources](../../..//PhieF/CarnetWebsite)
 
 ## Download
 
