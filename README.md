@@ -24,6 +24,8 @@ getcarnet.app [sources](../../../CarnetWebsite)
 
 [Linux 32 bits AppImage](https://qn.phie.ovh/binaries/desktop/current32.AppImage)
 
+[MacOS](https://qn.phie.ovh/binaries/desktop/currentMac.zip)
+
 [Daily Builds](https://qn.phie.ovh/binaries)
 
 
